@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Kartik Verma</h1>
-<h3 align="center">Backend Software Engineer | Distributed Systems | Golang | AWS | Docker </h3>
+<h3 align="center">Backend Software Engineer • Distributed Systems • Golang </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 Backend-focused Software Engineer with **3.5+ years of experience** designing and optimizing **scalable, high-performance distributed systems**.
 
-I enjoy solving system-level problems—reducing latency, improving throughput, and building backend services that remain reliable under heavy load.
+I enjoy solving system-level problems—reducing latency, improving throughput, and building backend services that remain reliable under heavy load and real-world traffic.
 
 ---
 
